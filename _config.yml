@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+#baseurl: "/Type-on-Strap"
+baseurl: "/"
+url: "https://convoitise.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
