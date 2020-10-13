@@ -1,24 +1,25 @@
 # Icons on the footer
 rss: true
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: "convoitise@outlook.com"    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
-facebook:
+facebook: "t.soundsystem"
 flickr:
 gitlab:
-github: "sylhare"
-instagram:
+github: "convoitise"
+instagram: "exconvoitise"
 keybase:
 linkedin:         # Full URL
 pinterest:
 reddit:
-soundcloud:
+soundcloud: "convoitise"
+spotify: "whereisjesshyde"
 stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter:          # "twitter username"
+twitter: "exconvoitise"         # "twitter username"
 vimeo:
 wordpress:
 youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
